@@ -10,6 +10,7 @@
 <sub>*Matemático* - Professor e Doutorando</sub>
 
 Meu portfolio de projetos de Data Science
+* **Analisando Dados do Airbnb - Montreal:** https://bit.ly/3jP70hQ
 
 <!---
 **Links:**
