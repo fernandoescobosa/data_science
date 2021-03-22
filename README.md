@@ -11,13 +11,13 @@
 
 Meu portfolio de projetos de Data Science
 * **Analisando Dados do Airbnb - Montreal:** https://bit.ly/3jP70hQ
+* **Analisando Dados de Violência - Rio de Janeiro:** https://bit.ly/397a6th
 
-<!---
+
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com) 
---->
+* [LinkedIn](https://www.linkedin.com/in/fernando-maia-escobosa-83b39b109/)
+* [Medium](https://fernandoescobosa.medium.com/) 
+
 
 <!---
 ## Projetos:
